@@ -47,11 +47,6 @@ class _HomeScreenState extends State<HomeScreen> {
 
         )
     );
-//    return Scaffold(
-//      backgroundColor: Colors.grey[900],
-//      appBar: customAppBar('MiPokedex', null),
-//      body: pokedb == null ? Loading(size: 100) : mainScreen(context),
-//    );
   }
 
 
