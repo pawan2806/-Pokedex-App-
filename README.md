@@ -1,6 +1,6 @@
 # pokedexapp
 
-A new Flutter application.
+A pokedex app made using flutter.
 
 ## Getting Started
 
